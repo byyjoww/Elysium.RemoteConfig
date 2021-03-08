@@ -1,3 +1,16 @@
-﻿{
-	"name": "elysium.remoteconfig.runtime"
+{
+    "name": "elysium.remoteconfig.runtime",
+    "references": [
+        "GUID:2d400bc5bce43d44b85c182415c1b981",
+        "GUID:d4f8f3098ca064117a9b67941bfedd91"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
